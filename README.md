@@ -5,9 +5,9 @@
 
 ## Thông tin cá nhân
 - **Ngày sinh:** 20/02/2005
-- **Chuyên ngành:** Khoa học Dữ liệu (Khoa Công nghệ Thông tin)
-- **Trường Đại học:** Đại học Sài Gòn (SGU)
-- **Liên hệ:** [Địa chỉ Email của bạn] | [Đường dẫn đến LinkedIn của bạn]
+- **Chuyên ngành:** Khoa học Dữ liệu - **Khoa:** Toán - Ứng dụng
+- **Trường:** Trường Đại học Sài Gòn (SGU)
+- **Liên hệ:** [trngchnn@gmail.com]
 
 ---
 
@@ -15,14 +15,14 @@
 - **GPA tích lũy:** 3.83 / 4.00
 - **GPA học kỳ gần nhất:** 4.00 / 4.00
 - **Giải thưởng:** Giải Nhất cuộc thi "Nhà phân tích dữ liệu 2026" cấp Khoa.
-- **Vai trò quản lý:** Thành viên Ban chủ nhiệm Câu lạc bộ Nghiên cứu Khoa học Sinh viên, Khoa Công nghệ Thông tin, Trường Đại học Sài Gòn.
+- **Vai trò quản lý:** Thành viên Ban chủ nhiệm Câu lạc bộ Nghiên cứu Khoa học Sinh viên, Khoa Toán - Ứng dụng, Trường Đại học Sài Gòn.
 
 ---
 
 ## Kỹ năng chuyên môn và Công cụ sử dụng
-- **Ngôn ngữ lập trình & Công cụ:** Python (Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn), SQL, R.
-- **Phương pháp luận:** Phân tích thống kê dữ liệu, Học máy (Machine Learning), Mô hình hóa dự báo, Mô hình dựa trên tác tử (Agent-Based Modeling - ABM), Kỹ nghệ đặc trưng (Feature Engineering).
-- **Kỹ năng mềm:** Viết báo cáo khoa học (Technical Writing), Trực quan hóa và truyền tải câu chuyện dữ liệu (Data Storytelling), Phương pháp nghiên cứu khoa học, Quản lý đội ngũ.
+- **Ngôn ngữ lập trình & Công cụ:** Python.
+- **Kỹ thuật & Thuật toán:** Thống kê mô tả, Hồi quy (Regression), Phân loại (Classification), Mô phỏng ABM, Xử lý ngoại lai (IQR) và Biến đổi đặc trưng (Feature Engineering).
+- **Kỹ năng mềm:** Viết báo cáo khoa học (Technical Writing), Trực quan hóa và truyền tải câu chuyện dữ liệu (Data Storytelling), Phương pháp nghiên cứu khoa học, Quản lý đội ngũ và làm việc nhóm.
 
 ---
 
