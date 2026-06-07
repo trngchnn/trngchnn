@@ -1,5 +1,5 @@
 # Trần Ngọc Hân
-**Sinh viên ngành Khoa học Dữ liệu | Trường Đại học Sài Gòn (SGU)**
+**Sinh viên năm 1 ngành Khoa học Dữ liệu | Trường Đại học Sài Gòn (SGU)**
 
 ---
 
@@ -14,7 +14,13 @@
 ## Thành tích học tập và Hoạt động nổi bật
 - **GPA tích lũy:** 3.83 / 4.00
 - **GPA học kỳ gần nhất:** 4.00 / 4.00
-- **Giải thưởng:** Giải Nhất cuộc thi "Nhà phân tích dữ liệu 2026" cấp Khoa.
+- **Giải thưởng:**
+- Giải Nhất cuộc thi "Nhà phân tích dữ liệu 2026" cấp Khoa.
+- Giải Nhất cuộc thi "Lý luận trẻ trường Đại học Sài Gòn 2026".
+- **Hoạt động xã hội:**
+- Đạt nhiều khen thưởng, thành tích cá nhân về các hoạt động Đoàn - Hội từ cấp 3 đến nay, như:
+- Thanh niên tiên tiến làm theo lời Bác cấp Khoa, cấp Trường, cấp Quận
+- Tham gia Vòng Bán kết Cuộc thi "The Winner 2025" cấp trường (Cuộc thi Tiếng Anh - Bảng không chuyên)
 - **Vai trò quản lý:** Thành viên Ban chủ nhiệm Câu lạc bộ Nghiên cứu Khoa học Sinh viên, Khoa Toán - Ứng dụng, Trường Đại học Sài Gòn.
 
 ---
@@ -29,10 +35,10 @@
 ## Danh sách các dự án tiêu biểu
 
 ### Phân tích rủi ro tài chính hộ gia đình cao tuổi (Elderly Healthcare Financial Risk)
-- Kho lưu trữ: [elderly-healthcare-financial-risk](https://github.com/trngchnn/elderly-healthcare-expenditure-financial-vulnerability)
-- Bối cảnh: Đồ án cá nhân tại Vòng Chung kết - Cuộc thi Nhà phân tích dữ liệu 2026 (Kết quả: Đạt Giải Nhất).
-- Bài toán: Định lượng tác động của chi phí y tế tự chi trả (Out-of-pocket) đến nguy cơ tổn thương tài chính của các hộ gia đình có người cao tuổi, từ đó đề xuất mô hình lập trần chi trả phục vụ mục tiêu chiến lược y tế vĩ mô năm 2030.
-- Kỹ thuật áp dụng: Tiếp cận dữ liệu ủy quyền (Proxy Data Approach), Khai phá phân khúc mẫu (EDA), Đo lường trọng số thuộc tính (Feature Importance) bằng Scikit-learn, Mô hình hóa kịch bản chính sách.
+- **Kho lưu trữ:** [elderly-healthcare-financial-risk](https://github.com/trngchnn/elderly-healthcare-expenditure-financial-vulnerability)
+- **Bối cảnh:** Đồ án cá nhân tại Vòng Chung kết - Cuộc thi Nhà phân tích dữ liệu 2026 (Kết quả: Đạt Giải Nhất).
+- **Bài toán:** Định lượng tác động của chi phí y tế tự chi trả (Out-of-pocket) đến nguy cơ tổn thương tài chính của các hộ gia đình có người cao tuổi, từ đó đề xuất mô hình lập trần chi trả phục vụ mục tiêu chiến lược y tế vĩ mô năm 2030.
+- **Kỹ thuật áp dụng:** Tiếp cận dữ liệu ủy quyền (Proxy Data Approach), Khai phá phân khúc mẫu (EDA), Đo lường trọng số thuộc tính (Feature Importance) bằng Scikit-learn, Mô hình hóa kịch bản chính sách.
 
 ### Dự báo giá nhà đất (Housing Price Prediction)
 - **Kho lưu trữ:** [housing-price-prediction-ml](https://github.com/trngchnn/housing-price-prediction-ml)
@@ -47,10 +53,10 @@
 - **Kỹ thuật áp dụng:** Trích xuất đặc trưng thời gian (Datetime), Chuẩn hóa dữ liệu (StandardScaler), Huấn luyện thuật toán Random Forest tối ưu qua GridSearchCV, Kiểm chứng chéo K-Fold.
 
 ### Mô phỏng thao túng dư luận qua mô hình ABM (Opinion Manipulation ABM Simulation)
-- Kho lưu trữ: [opinion-manipulation-abm-simulation](https://github.com/trngchnn/opinion-manipulation-abm-pilot-study)
-- Bối cảnh: Nghiên cứu thử nghiệm tiền khả thi - Phục vụ đề xuất Đề tài Nghiên cứu Khoa học Sinh viên (Trường Đại học Sài Gòn).
-- Bài toán: Áp dụng phương pháp Vật lý thống kê và Mô phỏng đa tác tử để kiểm chứng thuật toán đo lường cơ chế lan truyền, thao túng quan điểm trên mạng lưới ẩn danh thông qua dữ liệu ủy quyền.
-- Kỹ thuật áp dụng: Phân tích cảm xúc (VADER), Xây dựng Ma trận xác suất chuyển trạng thái (Markov Chain), Đo lường Shannon Entropy, Mô phỏng đa tác tử (Agent-Based Modeling) và Monte Carlo.
+- **Kho lưu trữ:** [opinion-manipulation-abm-simulation](https://github.com/trngchnn/opinion-manipulation-abm-pilot-study)
+- **Bối cảnh:** Nghiên cứu thử nghiệm tiền khả thi - Phục vụ đề xuất Đề tài Nghiên cứu Khoa học Sinh viên (Trường Đại học Sài Gòn).
+- **Bài toán:** Áp dụng phương pháp Vật lý thống kê và Mô phỏng đa tác tử để kiểm chứng thuật toán đo lường cơ chế lan truyền, thao túng quan điểm trên mạng lưới ẩn danh thông qua dữ liệu ủy quyền.
+- **Kỹ thuật áp dụng:** Phân tích cảm xúc (VADER), Xây dựng Ma trận xác suất chuyển trạng thái (Markov Chain), Đo lường Shannon Entropy, Mô phỏng đa tác tử (Agent-Based Modeling) và Monte Carlo.
 
 ### Phân tích rủi ro nợ xấu tín dụng (Credit Card Default Risk Analytics)
 - **Kho lưu trữ:** [credit-card-default-risk-analytics](https://github.com/trngchnn/credit-card-default-risk-analytics)
