@@ -18,8 +18,7 @@
   - Giải Nhất cuộc thi "Nhà phân tích dữ liệu 2026" cấp Khoa.
   - Giải Nhất cuộc thi "Lý luận trẻ trường Đại học Sài Gòn 2026".
 - **Hoạt động xã hội:**
-  - Đạt nhiều khen thưởng, thành tích cá nhân về các hoạt động Đoàn - Hội từ cấp 3 đến nay, như:
-  - Thanh niên tiên tiến làm theo lời Bác cấp Khoa, cấp Trường, cấp Quận các năm
+  - Đạt nhiều khen thưởng, thành tích cá nhân về các hoạt động Đoàn - Hội từ cấp 3 đến nay, như: Thanh niên tiên tiến làm theo lời Bác cấp Khoa, cấp Trường, cấp Quận các năm học, Sao Tháng Thanh niên cấp trường ĐH Sài Gòn, Học sinh 3 Tốt cấp trường THPT Trần Phú, Gương mặt Thủ lĩnh trẻ cấp Thành phố.
   - Tham gia Vòng Bán kết Cuộc thi "The Winner 2025" cấp trường (Cuộc thi Tiếng Anh - Bảng không chuyên)
   - Tham gia nhiều chiến dịch tình nguyện như: Chiến dịch Xuân tình nguyện cấp trường năm 2026, Chương trình Tiếp sức mùa thi cấp trường năm 2026, Chiến dịch tình nguyện hè Hoa phượng đỏ các năm 2021-2023.
   - Từng là thành viên Đội Công tác xã hội trường Đại học Luật Thành phố Hồ Chí Minh.
